@@ -20,3 +20,6 @@ The website contain five section : Home , About , Course , Events and Contact.
 
 
 This website contains various course such as : Android App Development , Data Science , Web Development , Database , Graphic Design.
+
+
+![alt text](https://techeconomy.ng/wp-content/uploads/2019/01/Cloud-ERP-and-Enterprise-resource-2018.jpg)
